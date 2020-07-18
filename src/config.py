@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
 
 
-BOT_TOKEN = '1202948250:AAGr59-2PSj-6xPHEcp84jAB7TMWHGk0_9Y'
-ADMIN_ID = '830903318'
+BOT_TOKEN = ''
+ADMIN_ID = ''
